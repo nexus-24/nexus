@@ -1,0 +1,16 @@
+img{
+    margin-left: 1000px;
+    border-radius: 20px;
+}
+body{
+    text-align: left;
+    background-color: rgb(237, 176, 95);
+}
+*{
+    margin: 10px;
+}
+form{
+    text-align: center;
+}
+
+
